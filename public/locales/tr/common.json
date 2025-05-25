@@ -1,0 +1,119 @@
+{
+  "title": "Emir Baycan",
+  "description": "Yazılım Geliştirici",
+  "skills": "Beceriler",
+  "skill_set": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Sequelize",
+    "JavaScript",
+    "React",
+    "..."
+  ],
+  "education": "Eğitim",
+  "education_set": [
+    "Fullstack Academy of Code"
+  ],
+  "certifications": "Sertifikalar",
+  "certification_set": [
+    "AWS Bulut Uygulayıcısı",
+    "Google Profesyonel Bulut Geliştirici"
+  ],
+  "about_me": "Hakkımda",
+  "introduction": "Etkileşimli ve duyarlı web uygulamaları oluşturma tutkusuna sahip bir tam yığın web geliştiricisiyim. JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize, HTML, CSS ve Git ile çalışma deneyimine sahibim. Hızlı öğrenirim ve her zaman bilgi ve beceri setimi genişletmeye istekliyim. Takım oyuncusuyum ve diğerleriyle harika uygulamalar oluşturmak için heyecanlıyım.",
+  "projects": "Projeler",
+  "users": "Kullanıcılar",
+  "awards": "Ödüller",
+  "years": "Yıllar",
+  "contact_header": "Bağlantı Kur",
+  "contact_content": "Şu anda yeni fırsatlar arıyorum, gelen kutum her zaman açık. Bir sorunuz varsa veya sadece merhaba demek istiyorsanız, size geri dönmek için elimden geleni yapacağım!",
+  "footer_logo": "LOGO",
+  "footer_rights": "Emir Baycan tarafından tasarlandı ve geliştirildi, tüm hakları saklıdır.",
+  "hello_im": "Merhaba Ben",
+  "sequence": [
+    "Emir",
+    1000,
+    "Web Geliştirici",
+    1000,
+    "Mobil Geliştirici",
+    1000,
+    "Yazılım Geliştirici",
+    1000,
+    "Tam Yığın Geliştirici",
+    1000,
+    "Ön Uç Geliştirici",
+    1000,
+    "Arka Uç Geliştirici",
+    1000,
+    "Sunucu Tarafı Geliştirici",
+    1000
+  ],
+  "hire_me": "Merhaba de",
+  "download_cv": "CV İndir",
+  "about": "Hakkında",
+  "contact": "İletişim",
+  "my_projects": "Projelerim",
+  "project_set": [
+    {
+      "id": 1,
+      "title": "Kalenuxer",
+      "description": "Yüksek performanslı web uygulamaları oluşturmak için gerekli tüm araçları sağlayan bir web sitesi oluşturma çerçevesi. Çok dil desteği, minify araçları, obfuscators, SSR, şablonlar (posta, bölüm, sayfalar..), sınıflandırma, svg'den simgelere, versiyonlama, css, js yapısı ve yerelleştirmeler içerir.",
+      "image": "/images/projects/kalenuxer/kalenuxer.png",
+      "tag": [
+        "Hepsi",
+        "Web"
+      ],
+      "gitUrl": "https://github.com/kalinux0/Kalenuxer",
+      "previewUrl": "https://github.com/kalinux0/Kalenuxer"
+    },
+    {
+      "id": 2,
+      "title": "Ortaklarım Hukuk Bürosu",
+      "description": "Bir Hukuk Bürosu için oluşturduğum bir web sitesi ve kontrol paneli ayrıca SQL verilerini HTML yapısına dönüştüren SSR algoritmaları içerir.",
+      "image": "/images/projects/myp/myp.webp",
+      "tag": [
+        "Hepsi",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://myp.emirbaycan.com.tr"
+    },
+    {
+      "id": 3,
+      "title": "Hukuki Yeterlilik Akademisi",
+      "description": "Bir Eğitim Hizmetleri Firması için oluşturduğum bir web sitesi ve kontrol paneli.",
+      "image": "/images/projects/hya/hya.webp",
+      "tag": [
+        "Hepsi",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://hya.emirbaycan.com.tr"
+    },
+    {
+      "id": 4,
+      "title": "Morkoç Hukuk Bürosu",
+      "description": "Bir Hukuk Bürosu için oluşturduğum bir web sitesi ve kontrol paneli.",
+      "image": "/images/projects/morkoc/morkoc.webp",
+      "tag": [
+        "Hepsi",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://morkoc.emirbaycan.com.tr"
+    },
+    {
+      "id": 5,
+      "title": "Karalar Prefabrik",
+      "description": "Bir Prefabrik Ev Firması için oluşturduğum bir web sitesi ve kontrol paneli.",
+      "image": "/images/projects/kp/1.webp",
+      "tag": [
+        "Hepsi",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://kp.emirbaycan.com.tr"
+    }
+  ]
+}

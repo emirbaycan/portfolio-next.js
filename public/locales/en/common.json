@@ -1,0 +1,119 @@
+{
+  "title":"Emir Baycan",
+  "description":"Software Developer",
+  "skills": "Skills",
+  "skill_set": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Sequelize",
+    "JavaScript",
+    "React",
+    "..."
+  ],
+  "education": "Education",
+  "education_set": [
+    "Fullstack Academy of Code"
+  ],
+  "certifications": "Certifications",
+  "certification_set": [
+    "AWS Cloud Practitioner",
+    "Google Professional Cloud Developer"
+  ],
+  "about_me": "About Me",
+  "introduction": "I am a full stack web developer with a passion for creatinginteractive and responsive web applications. I have experienceworking with JavaScript, React, Redux, Node.js, Express, PostgreSQL,Sequelize, HTML, CSS, and Git. I am a quick learner and I am alwayslooking to expand my knowledge and skill set. I am a team player andI am excited to work with others to create amazing applications.",
+  "projects": "Projects",
+  "users": "Users",
+  "awards": "Awards",
+  "years": "Years",
+  "contact_header": "Lets Connect",
+  "contact_content": "I'm currently looking for new opportunities, my inbox is alwaysopen. Whether you have a question or just want to say hi, I'lltry my best to get back to you!",
+  "footer_logo": "LOGO",
+  "footer_rights": "Designed and Developed by Emir Baycan, all rights reserved.",
+  "hello_im": "Hello I'm",
+  "sequence": [
+    "Emir",
+    1000,
+    "Web Developer",
+    1000,
+    "Mobile Developer",
+    1000,
+    "Software Developer",
+    1000,
+    "Fullstack Developer",
+    1000,
+    "Frontend Developer",
+    1000,
+    "Backend Developer",
+    1000,
+    "Serverside Developer",
+    1000
+  ],
+  "hire_me": "Say Hello",
+  "download_cv": "Download CV",
+  "about": "About",
+  "contact": "Contact",
+  "my_projects": "My Projects",
+  "project_set": [
+    {
+      "id": 1,
+      "title": "Kalenuxer",
+      "description": "A website building framework that provides all the necessary tools for building highly efficient for performance web applications, It contains multi language support, minifiers, obfuscators, SSR, templaters (mail, section, pages..), classification, svg to icons, versionizers, css, js structure and localizations, ",
+      "image": "/images/projects/kalenuxer/kalenuxer.png",
+      "tag": [
+        "All",
+        "Web"
+      ],
+      "gitUrl": "https://github.com/kalinux0/Kalenuxer",
+      "previewUrl": "https://github.com/kalinux0/Kalenuxer"
+    },
+    {
+      "id": 2,
+      "title": "My Partners Law Firm",
+      "description": "A website and control panel that i built for a Law Firm it also contains SSR algorithms that converts the SQL datas to HTML structure with Kalenuxer",
+      "image": "/images/projects/myp/myp.webp",
+      "tag": [
+        "All",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://myp.emirbaycan.com.tr"
+    },
+    {
+      "id": 3,
+      "title": "Hukuki Yeterlilik Akademisi",
+      "description": "A website and control panel that i built for an Education Services Firm with Kalenuxer",
+      "image": "/images/projects/hya/hya.webp",
+      "tag": [
+        "All",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://hya.emirbaycan.com.tr"
+    },
+    {
+      "id": 4,
+      "title": "Morkoç Law Firm",
+      "description": "A website and control panel that i built for a Law Firm with Kalenuxer",
+      "image": "/images/projects/morkoc/morkoc.webp",
+      "tag": [
+        "All",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://morkoc.emirbaycan.com.tr"
+    },
+    {
+      "id": 5,
+      "title": "Karalar Prefabric",
+      "description": "A website and control panel that i built for a Prefabric House Firm with Kalenuxer",
+      "image": "/images/projects/kp/1.webp",
+      "tag": [
+        "All",
+        "Web"
+      ],
+      "gitUrl": "/",
+      "previewUrl": "https://kp.emirbaycan.com.tr"
+    }
+  ]
+}
